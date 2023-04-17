@@ -1,5 +1,5 @@
 PYMACEUTICALS INC.
-# Matplotlib-Homework
+# Module 5 HW
 
 Jupyter Notebook 
 
