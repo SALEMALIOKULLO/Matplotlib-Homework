@@ -1,4 +1,6 @@
+PYMACEUTICALS INC.
 # Matplotlib-Homework
+
 Jupyter Notebook 
 
 What good is data without a good plot to tell the story?
